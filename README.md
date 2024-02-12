@@ -1,4 +1,4 @@
-                                                                        Project ColorApp - React Native
+                                                               Project ColorApp - React Native
   
 👀Overview
 Project ColorApp is a mobile application built using React Native that serves as a comprehensive catalog for colors. 
