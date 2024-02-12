@@ -1,15 +1,15 @@
-  Project Color Catalog - React Native
+  Project ColorApp - React Native
   
 Overview
-Project Color Catalog is a mobile application built using React Native that serves as a comprehensive catalog for colors. 
+Project ColorApp is a mobile application built using React Native that serves as a comprehensive catalog for colors. 
 Practice Project to get hands-on React Native.
 
 Getting Started
-Follow these steps to get the Project Color Catalog up and running on your local machine:
+Follow these steps to get the Project ColorApp up and running on your local machine:
 
 Clone the Repository:
--git clone https://github.com/your-username/color-catalog.git
--cd color-catalog
+-git clone https://github.com/your-username/ColorApp.git
+-cd ColorApp
 
 Install Dependencies: npm install
 
